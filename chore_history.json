@@ -1,0 +1,97 @@
+{
+    "history": [
+        {
+            "user": "Kevin",
+            "chore": "Vaccuum the Stairs",
+            "request_time": "2024-11-11 10:37:00",
+            "completion_time": null
+        },
+        {
+            "user": "Kevin",
+            "chore": "All chores completed",
+            "request_time": "2024-11-11 10:37:00",
+            "completion_time": "2024-11-11 10:37:15"
+        },
+        {
+            "user": "John",
+            "chore": "Take out the trash",
+            "request_time": "2024-11-11 11:42:52",
+            "completion_time": null
+        },
+        {
+            "user": "Kevin",
+            "chore": "Take out the trash",
+            "request_time": "2024-11-11 11:42:57",
+            "completion_time": null
+        },
+        {
+            "user": "John",
+            "chore": "Take out the trash",
+            "request_time": "2024-11-11 11:45:51",
+            "completion_time": null
+        },
+        {
+            "user": "Kevin",
+            "chore": "Load the dishwasher",
+            "request_time": "2024-11-11 11:45:54",
+            "completion_time": null
+        },
+        {
+            "user": "John",
+            "chore": "All chores",
+            "request_time": "2024-11-11 11:45:51",
+            "completion_time": "2024-11-11 11:45:59"
+        },
+        {
+            "user": "Kevin",
+            "chore": "All chores",
+            "request_time": "2024-11-11 11:45:54",
+            "completion_time": "2024-11-11 11:46:02"
+        },
+        {
+            "user": "John",
+            "chore": "Take out the trash",
+            "request_time": "2024-11-11 11:47:17",
+            "completion_time": null
+        },
+        {
+            "user": "John",
+            "chore": "All chores",
+            "request_time": "2024-11-11 11:47:17",
+            "completion_time": "2024-11-11 11:47:22"
+        },
+        {
+            "user": "John",
+            "chore": "Empty the dishwasher",
+            "request_time": "2024-11-11 17:03:58",
+            "completion_time": null
+        },
+        {
+            "user": "John",
+            "chore": "All chores",
+            "request_time": "2024-11-11 17:03:58",
+            "completion_time": "2024-11-11 17:04:02"
+        },
+        {
+            "user": "Kevin",
+            "chore": "Dust all flat surfaces in the kitchen",
+            "request_time": "2024-11-12 12:04:18",
+            "completion_time": null
+        },
+        {
+            "user": "John",
+            "chore": "Clean the bathroom",
+            "request_time": "2024-11-19 12:26:47",
+            "completion_time": null
+        }
+    ],
+    "dog_walk": {
+        "last_person": "Kevin",
+        "John": 1,
+        "Kevin": 2
+    },
+    "feed_water": {
+        "last_feed": "Kevin",
+        "last_water": "John"
+    }
+}

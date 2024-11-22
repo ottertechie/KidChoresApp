@@ -1,0 +1,38 @@
+{
+  "chores": [
+    {"name": "Take out the trash", "difficulty": 1},
+    {"name": "Load the dishwasher", "difficulty": 2},
+    {"name": "Empty the dishwasher", "difficulty": 2},
+    {"name": "Pick up the floor (living room, Dining room, kitchen", "difficulty": 1},
+    {"name": "Clean Dining Room Windows", "difficulty": 2},
+    {"name": "Check the fridge for expired foods", "difficulty": 3},
+    {"name": "Vacuum the living room and dining room", "difficulty": 1},
+    {"name": "Vaccuum the Stairs", "difficulty": 3},
+    {"name": "Vaccuum the kitchen", "difficulty": 4},
+    {"name": "Do the laundry", "difficulty": 4},
+    {"name": "Soda Can and Bottle Patrol", "difficulty": 2},
+    {"name": "Clean your bedroom", "difficulty": 2},
+    {"name": "Take the Dog out and play with him for 15 minutes", "difficulty": 2},
+    {"name": "Organize the pantry", "difficulty": 3},
+    {"name": "Clean the downstairs bathroom", "difficulty": 3},
+    {"name": "Clean the upstairs bathroom", "difficulty": 3},
+    {"name": "Dust all flat surfaces in the living room", "difficulty": 3},
+    {"name": "Dust all flat surfaces in the dining room", "difficulty": 3},
+    {"name": "Dust all flat surfaces in the kitchen", "difficulty": 3},
+    {"name": "Clean Laundry out of bathroom", "difficulty": 2},
+    {"name": "Clean out the fridge", "difficulty": 5},
+    {"name": "Wipe down kitchen counters", "difficulty": 2}
+  ],
+  "daily_chores": [
+    {"name": "Feed Scout - AM"},
+    {"name": "Feed Scout - PM"},
+    {"name": "Give Scout Water - AM"},
+    {"name": "Give Scout Water - PM"},
+    {"name": "Clean up your area"}
+  ],
+  "weekend_chores": [
+    {"name": "Mow the lawn", "difficulty": 4},
+    {"name": "Wash the car", "difficulty": 4},
+    {"name": "Rake the leaves", "difficulty": 4}
+  ]
+}
